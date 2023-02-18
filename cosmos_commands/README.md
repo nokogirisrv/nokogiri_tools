@@ -4,7 +4,7 @@
 ```
 <cosmos> init <Your-Node-Name> --chain-id <network-chain-id>
 ```
-#### Crate your wallet
+#### Create your wallet
 ```
 <cosmos> keys add <your-wallet-name>
 ```
