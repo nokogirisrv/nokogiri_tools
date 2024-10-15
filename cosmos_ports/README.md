@@ -200,7 +200,7 @@ sed -i.bak -e "s%^node = \"tcp://localhost:26657\"%node = \"tcp://localhost:6155
 
 ### Updating `external_address`
 
-After making the above changes, update `external_address` as follows:
+After making the above changes, update `external_address` external_address=$(wget -qO- eth0.me) as follows:
 
 ```bash
 # for 2 node
